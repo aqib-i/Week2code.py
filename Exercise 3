@@ -1,0 +1,14 @@
+A simple way to store variables (values) in your program is to use variables. Variables are placeholders that can store values, like strings (words), numbers (int) etc.  
+ 
+To create a variable, just give it a name and an initial value, for example for a number:  
+number = 7 
+or for a String (words):  
+myword = “This is my word” 
+ 
+5) Write a program that asks the user for his/her name and produces an output like:  
+ 
+Hi there, what is your name? 
+>User input to be read< 
+Hello  
+“User name” 
+How are you? 
