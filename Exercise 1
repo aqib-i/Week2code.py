@@ -1,0 +1,26 @@
+1) Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.  
+ 
+2) Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.  
+ 
+3) Write a command in the Idle shell that says “Hello world” 
+ 
+4) Write a program that produces the following output:  
+Hello World 
+I am in my ISD class right now 
+ 
+Reminder on “Input”: 
+ 
+A simple way to store variables (values) in your program is to use variables. Variables are placeholders that can store values, like strings (words), numbers (int) etc.  
+ 
+To create a variable, just give it a name and an initial value, for example for a number:  
+number = 7 
+or for a String (words):  
+myword = “This is my word” 
+ 
+5) Write a program that asks the user for his/her name and produces an output like:  
+ 
+Hi there, what is your name? 
+>User input to be read< 
+Hello  
+“User name” 
+How are you? 
